@@ -1,4 +1,4 @@
-modified sushi
+null
 
 pages:
   fruits.md:
@@ -13,4 +13,3 @@ pages:
 menu:
   Home: fruits.html
   Banan: banana.html
-
