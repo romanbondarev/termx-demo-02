@@ -1,0 +1,15 @@
+null
+
+pages:
+  fruits.md:
+    title: Fruits
+  banana.md:
+    title: Banana
+  ig.md:
+    title: IG
+  orange.md:
+    title: Orange
+
+menu:
+  Home: fruits.html
+  Banan: banana.html
